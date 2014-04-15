@@ -2395,6 +2395,8 @@ Scheme
 			}
 		}
 		
+		//Origin Regular
+		
 		OriginRegualr12
 		{
 			"1"
@@ -2466,6 +2468,85 @@ Scheme
 			"1"
 			{
 				"name"		"Origin Regular"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		//Origin Bold Fonts - HP/Ammo
+		
+		OriginBold12
+		{
+			"1"
+			{
+				"name"		"Origin Bold"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+
+		OriginBold16
+		{
+			"1"
+			{
+				"name"		"Origin Bold"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		OriginBold24
+		{
+			"1"
+			{
+				"name"		"Origin Bold"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		OriginBold32
+		{
+			"1"
+			{
+				"name"		"Origin Bold"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		OriginBold36
+		{
+			"1"
+			{
+				"name"		"Origin Bold"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		OriginBold42
+		{
+			"1"
+			{
+				"name"		"Origin Bold"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		OriginBold48
+		{
+			"1"
+			{
+				"name"		"Origin Bold"
 				"tall"		"48"
 				"weight"	"500"
 				"antialias" "1"
